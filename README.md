@@ -3,7 +3,11 @@
   A hands-free media controller embedded in a pen — automatically pauses and resumes video lectures
   based on writing activity, with gesture-based skip and one-tap screenshot capture.
 </p>
-
+<p align="center">
+  <b>DS3001: Prototyping & Testing &nbsp;|&nbsp; IIITDM Kancheepuram</b><br>
+  EC23B1038 Caitlin Leonard &nbsp;|&nbsp; CS23B1097 S. Shamprethi &nbsp;|&nbsp; CS23B1098 Anjana B Va &nbsp;|&nbsp; CS23B1099 Pritha K &nbsp;|&nbsp; CS23B1100 Gladys Deepak<br>
+  <i>Supervisor: Dr. Suresh Varadharajan</i>
+</p>
 
 <hr>
 
@@ -145,6 +149,11 @@ ser = serial.Serial('COM3', 115200, timeout=1)
 <h3>📸 Prototype</h3>
 
 <p align="center">
+  <img src="assets/photo.png" width="600"/>
+</p>
+<p align="center"><i>Prototype — assembled hardware</i></p>
+
+<p align="center">
   <img src="assets/sketch.jpeg" width="600"/>
 </p>
 <p align="center"><i>Hardware sketch</i></p>
@@ -153,6 +162,12 @@ ser = serial.Serial('COM3', 115200, timeout=1)
   <img src="assets/future.jpeg" width="600"/>
 </p>
 <p align="center"><i>Future vision — fully miniaturised pen with 3D printed casing</i></p>
+
+<h4>📹 Demo Video</h4>
+<p>
+  A working demo of the Smart Writing Aid is available in <code>assets/video.mp4</code>.<br>
+  <i>(Download or clone the repo to view — GitHub does not preview mp4 files inline.)</i>
+</p>
 
 <hr>
 
