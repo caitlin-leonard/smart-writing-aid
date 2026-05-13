@@ -3,11 +3,7 @@
   A hands-free media controller embedded in a pen — automatically pauses and resumes video lectures
   based on writing activity, with gesture-based skip and one-tap screenshot capture.
 </p>
-<p align="center">
-  <b>DS3001: Prototyping & Testing &nbsp;|&nbsp; IIITDM Kancheepuram</b><br>
-  EC23B1038 Caitlin Leonard &nbsp;|&nbsp; CS23B1097 S. Shamprethi &nbsp;|&nbsp; CS23B1098 Anjana B Va &nbsp;|&nbsp; CS23B1099 Pritha K &nbsp;|&nbsp; CS23B1100 Gladys Deepak<br>
-  <i>Supervisor: Dr. Suresh Varadharajan</i>
-</p>
+
 
 <hr>
 
